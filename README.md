@@ -1,7 +1,7 @@
 # Python is a high-level, interpreted programming language known for its simplicity and readability. Here's an overview of its key features and characteristics:
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhjY3BqeXc3NzN6MmJuMGNrb3VkdWc0ZDJlMjAwaXN2cnd1ODQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FebmuLoiqkeCcla/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhjY3BqeXc3NzN6MmJuMGNrb3VkdWc0ZDJlMjAwaXN2cnd1ODQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FebmuLoiqkeCcla/giphy.gif" width = "300" />
 </div>
 
 
