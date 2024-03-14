@@ -37,3 +37,7 @@ Python has a vast and active community of developers contributing to its ecosyst
 
 ## Wide Range of Applications: 
 Python is used extensively in various domains including web development, data science, machine learning, artificial intelligence, scientific computing, automation, scripting, and more.
+
+<div id="footer" align="center">
+  <img src="https://cdn.svgporn.com/logos/python.svg"/>
+</div>
